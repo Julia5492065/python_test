@@ -7,5 +7,5 @@ while t!=0:
     y=1
     for b in x:
         y*=int(b)
-        print(y)
+    print(y)
     t-=1
